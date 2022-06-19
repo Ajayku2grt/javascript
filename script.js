@@ -1,0 +1,1 @@
+document.write('<p>Script from external js file</p>');
